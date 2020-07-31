@@ -14,8 +14,8 @@ p {
 }
 
 .blog-text {
-    color:black;
-    line-height: 1;
+    color:red;
+    line-height: 0.5;
 }
 .products-text {
     color:green;
